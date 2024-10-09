@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Nhiki
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Nhiki Hub
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
