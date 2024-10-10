@@ -104,8 +104,6 @@ sections:
           [![©RoutineHub](https://i.imgur.com/lPbuWTJ.png)](https://routinehub.co/)
 
 
-          ![Got an idea for me? Q badge](https://i.imgur.com/Z2axWpb.png)
-
 
           ##### Be the first person to be a part of one of my future shortcut!
 
