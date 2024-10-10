@@ -102,7 +102,7 @@ sections:
         tagline: ''
       - type: FeaturedItem
         title: "Questions\U0001F187\U0001F189\U0001F181"
-        subtitle: Marketing
+        subtitle: "Want to play a game on shortcuts and earn a lot of points? \U0001D5DA\U0001D5FC \U0001D5F4\U0001D5F2\U0001D601 \U0001D5E4\U0001D602\U0001D5F2\U0001D600\U0001D601\U0001D5F6\U0001D5FC\U0001D5FB\U0001D600\U0001F187\U0001F189\U0001F181 now!"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
