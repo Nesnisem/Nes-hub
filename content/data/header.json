@@ -30,6 +30,17 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "Home",
+            "altText": "Home",
+            "url": "/home",
+            "showIcon": false,
+            "icon": "play",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Careers",
             "altText": "Careers page",
             "url": "/careers",
@@ -77,17 +88,6 @@
             "url": "/",
             "showIcon": true,
             "icon": "send",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
-            "label": "Home",
-            "altText": "Home",
-            "url": "/home",
-            "showIcon": false,
-            "icon": "play",
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
