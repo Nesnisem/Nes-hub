@@ -92,7 +92,7 @@ sections:
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: unavalable
+          - label: Not available
             url: /
             icon: arrowRight
             iconPosition: right
