@@ -122,7 +122,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Stocker®
-        subtitle: Engineering
+        subtitle: Stocker® - your secure digital storage solution in one shortcut.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
