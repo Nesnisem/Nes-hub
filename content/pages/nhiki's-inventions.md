@@ -288,7 +288,7 @@ sections:
         tagline: MK Reviews
         subtitle: 'MK Reviews, Website analyzer'
         text: >
-          **Review by MK Review**
+          **Review by MK Reviews**
 
           ⭐⭐⭐⭐⭐
 
