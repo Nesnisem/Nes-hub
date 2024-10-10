@@ -224,7 +224,7 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    subtitle: Nhiki best review
+    subtitle: Nhiki's best review
     items:
       - type: FeaturedItem
         title: “Incredible developer who know coding like a pro!”
