@@ -84,10 +84,37 @@ sections:
         subtitle: >-
           Store, access, preview, edit, and remove vCard elements. Your personal
           vCard stocker only for you.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          ![vCard Stocker banner](https://i.imgur.com/ythv2wI.png)
+
+
+          #### vCard Stocker description
+
+
+          Introducing a new shortcut designed to streamline the management of
+          your vCards. This handy tool enables you to effortlessly access vCard
+          elements, make edits to their names or vCard codes, and remove
+          specific elements from your stocker. Don’t want to add your vCard on a
+          shortcut now? No worries because the preview action is here for you,
+          preview your vCard before using them. On top of that, you have the
+          ability to reset the shortcut at your convenience for a seamless user
+          experience.
+
+
+          [![©RoutineHub](https://i.imgur.com/lPbuWTJ.png)](https://routinehub.co/)
+
+
+          ![Got an idea for me? Q badge](https://i.imgur.com/Z2axWpb.png)
+
+
+          ##### Be the first person to be a part of one of my future shortcut!
+
+
+          Leave an idea in "feedback" right now! There will be a random draw
+          this Friday 19!
+
+
+          #### If you want add a full instruction.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
