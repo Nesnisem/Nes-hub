@@ -80,7 +80,7 @@ sections:
     subtitle: Here you will be able to find Nhiki's inventions.
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: vCard Stocker
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
