@@ -221,7 +221,7 @@ sections:
       - type: FeaturedItem
         title: vCard Viewer
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Preview your vCard Menu before using them
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
