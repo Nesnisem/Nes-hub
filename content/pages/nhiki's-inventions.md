@@ -237,7 +237,7 @@ sections:
             showIcon: true
             icon: play
             iconPosition: right
-            style: secondary
+            style: primary
             elementId: ''
         colors: bg-neutral-fg-dark
         styles:
