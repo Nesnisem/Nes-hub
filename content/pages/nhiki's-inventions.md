@@ -220,7 +220,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: vCard Viewer
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Preview your vCard Menu before using them
         text: |
           Follow the tutorial to build your first Netlify Create site.
