@@ -287,8 +287,7 @@ sections:
         title: My opinion...
         tagline: MK Reviews
         subtitle: 'MK Reviews, Website analyzer'
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/favicon.svg
