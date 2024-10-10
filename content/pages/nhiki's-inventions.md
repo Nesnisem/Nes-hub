@@ -229,13 +229,6 @@ sections:
           Taking this extra step can help you make a great first impression when
           exchanging vCard. It's a simple way to ensure that your professional
           image is always presented in the best light.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
