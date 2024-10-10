@@ -40,7 +40,7 @@ sections:
           “Quote from some important person goes right here. I love using
           Netlify.”
         tagline: Nesnisem
-        subtitle: 'Jane Doe, Company'
+        subtitle: 'Nesnisem, Spotify Artist'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
