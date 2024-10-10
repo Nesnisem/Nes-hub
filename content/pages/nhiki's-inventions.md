@@ -286,7 +286,7 @@ sections:
       - type: FeaturedItem
         title: My opinion...
         tagline: MK Reviews
-        subtitle: This is the item subtitle
+        subtitle: 'Mk Review, '
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
