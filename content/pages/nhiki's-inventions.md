@@ -132,7 +132,7 @@ sections:
           you have the option to set a password to protect your stored data.
         actions:
           - type: Button
-            label: Get started
+            label: Coming soon
             altText: ''
             url: ''
             showIcon: false
