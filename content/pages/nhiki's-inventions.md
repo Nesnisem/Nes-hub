@@ -148,7 +148,7 @@ sections:
           [![©RoutineHub](https://i.imgur.com/lPbuWTJ.png)](https://routinehub.co/)
         actions:
           - type: Button
-            label: Get started
+            label: Coming soon
             altText: ''
             url: ''
             showIcon: false
