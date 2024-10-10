@@ -297,6 +297,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/abstract-feature2.svg
 slug: Nhiki’s inventions
 isDraft: false
 seo:
