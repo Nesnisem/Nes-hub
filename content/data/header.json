@@ -80,6 +80,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Play",
+            "altText": "Play",
+            "url": "/home",
+            "showIcon": true,
+            "icon": "play",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
