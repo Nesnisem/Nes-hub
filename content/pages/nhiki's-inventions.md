@@ -290,13 +290,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
 slug: Nhiki’s inventions
 isDraft: false
 seo:
