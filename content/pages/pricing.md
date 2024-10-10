@@ -27,7 +27,7 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Not available
             url: /
             icon: arrowRight
             iconPosition: right
@@ -59,7 +59,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Not available
             url: /
             icon: arrowRight
             iconPosition: right
@@ -92,7 +92,7 @@ sections:
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
+          - label: Not available
             url: /
             icon: arrowRight
             iconPosition: right
