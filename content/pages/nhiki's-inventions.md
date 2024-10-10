@@ -154,7 +154,7 @@ sections:
           - type: Button
             label: Download shortcut
             altText: ''
-            url: 'https://routinehub.co/shortcut/19149/'
+            url: ''
             showIcon: true
             icon: chevronRight
             iconPosition: right
