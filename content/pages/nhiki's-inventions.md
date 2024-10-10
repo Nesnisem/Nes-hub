@@ -140,7 +140,9 @@ sections:
       - type: FeaturedItem
         title: vCard Menu Maker
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: >-
+          ired of the same old menus in the Shortcuts app? Say hello to vCard
+          Menu Maker, here to help!
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
