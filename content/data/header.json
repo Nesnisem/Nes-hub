@@ -72,7 +72,7 @@
         },
         {
             "type": "Link",
-            "label": "Send",
+            "label": "Get help",
             "altText": "Send",
             "url": "/",
             "showIcon": true,
