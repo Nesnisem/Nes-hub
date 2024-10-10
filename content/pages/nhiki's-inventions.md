@@ -284,7 +284,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Feature Item One
+        title: My opinion...
         tagline: MK Reviews
         subtitle: This is the item subtitle
         text: |
