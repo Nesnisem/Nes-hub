@@ -16,7 +16,7 @@
             "type": "Link",
             "label": "Home",
             "altText": "Home",
-            "url": "/home",
+            "url": "/Home",
             "showIcon": false,
             "icon": "play",
             "iconPosition": "right",
