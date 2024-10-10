@@ -142,7 +142,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
+        label: See more
         url: ''
         icon: arrowRight
         iconPosition: right
