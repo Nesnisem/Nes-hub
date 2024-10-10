@@ -156,7 +156,7 @@ sections:
             altText: ''
             url: 'https://routinehub.co/shortcut/19149/'
             showIcon: true
-            icon: github
+            icon: chevronRight
             iconPosition: right
             style: secondary
             elementId: ''
