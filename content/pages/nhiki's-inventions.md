@@ -234,7 +234,7 @@ sections:
             label: Download shortcut
             altText: ''
             url: 'https://routinehub.co/shortcut/19270/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
