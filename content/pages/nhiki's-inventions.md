@@ -150,7 +150,16 @@ sections:
           customized menus with icons. Now you can have an elegant menu with
           your own icons. To learn how, check out our video library, where
           you'll find tutorials and templates to suit your needs.
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://routinehub.co/shortcut/19149/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
