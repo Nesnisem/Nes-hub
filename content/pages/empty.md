@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: Nhiki's inventions
 sections:
   - type: CarouselSection
     subtitle: This is a subtitle
