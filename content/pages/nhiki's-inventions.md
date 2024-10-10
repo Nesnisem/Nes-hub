@@ -231,7 +231,7 @@ sections:
           image is always presented in the best light.
         actions:
           - type: Button
-            label: Get started
+            label: Download shortcut
             altText: ''
             url: 'https://routinehub.co/shortcut/19270/'
             showIcon: false
