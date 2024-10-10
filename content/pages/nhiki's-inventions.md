@@ -240,13 +240,16 @@ sections:
         title: vCard Viewer
         tagline: ''
         subtitle: Preview your vCard Menu before using them
-        text: >
+        text: >-
           Preview your vCard Menu before using them. This will ensure that all
           the information is accurate and up to date. You can easily make any
           necessary changes or updates before sharing your contact details.
           Taking this extra step can help you make a great first impression when
           exchanging vCard. It's a simple way to ensure that your professional
           image is always presented in the best light.
+
+
+          [![©RoutineHub](https://i.imgur.com/lPbuWTJ.png)](https://routinehub.co/)
         actions:
           - type: Button
             label: Download shortcut
