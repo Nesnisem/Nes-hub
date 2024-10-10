@@ -115,7 +115,7 @@ sections:
           #### If you want add a full instruction.
         actions:
           - type: Button
-            label: Get started
+            label: Coming soon
             altText: ''
             url: ''
             showIcon: false
