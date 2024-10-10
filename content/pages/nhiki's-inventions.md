@@ -152,7 +152,7 @@ sections:
           you'll find tutorials and templates to suit your needs.
         actions:
           - type: Button
-            label: Get started
+            label: Download shortcut
             altText: ''
             url: 'https://routinehub.co/shortcut/19149/'
             showIcon: true
