@@ -286,7 +286,7 @@ sections:
       - type: FeaturedItem
         title: My opinion...
         tagline: MK Reviews
-        subtitle: 'MK Reviews, Website analyzer'
+        subtitle: 'MK Reviews, Website analyzer and developer'
         text: >
           **Review by MK Reviews**
 
