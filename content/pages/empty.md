@@ -9,10 +9,7 @@ sections:
         title: “Incredible developer who know coding like a pro!”
         tagline: Next Gen Innovators
         subtitle: 'Qerty Zolres, Next Gen Innovators'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Hello my name is Qerty Zolres from the [NGI (Next Gen Innovators) team](https://routinehub.co/user/next.gen.innovators) and I would like to tell you my opinion about Nhiki. Nhiki is a very smart person who offers many things for his customers and I would like to thank Nhiki for helping me and my team to create useful shortcuts etc. Nhiki has also helped us with things like websites and many other things with coding thanks to his coding expertise. Nhiki has also helped us with things like websites and many other things with coding thanks to his coding expertise. Nhiki offers so much free stuff to other people whether it's to create a complete thing with only coding or partially! \U0001F60E\n"
         image:
           type: ImageBlock
           url: /images/IMG_5510.jpeg
