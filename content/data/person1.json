@@ -1,9 +1,9 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "Nhiki",
+    "role": "Developer/administrator",
     "image": {
-        "url": "/images/avatar1.svg",
-        "altText": "Rhonda Piper",
+        "url": "/images/logo-dark.svg",
+        "altText": "Nhiki company",
         "styles": {
             "self": {
                 "borderRadius": "medium",
