@@ -348,7 +348,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: Nhiki’s inventions
+slug: /Nhiki-inventions
 isDraft: false
 seo:
   type: Seo
