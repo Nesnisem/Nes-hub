@@ -6,9 +6,7 @@ sections:
     subtitle: This is a subtitle
     items:
       - type: FeaturedItem
-        title: >-
-          “Incredible developer that actually helps me for my shortcuts on
-          RoutineHub!”
+        title: “Incredible developer who know coding like a pro!”
         tagline: Next Gen Innovators
         subtitle: 'Qerty Zolres, Next Gen Innovators'
         text: >-
