@@ -235,7 +235,7 @@ sections:
             altText: ''
             url: 'https://routinehub.co/shortcut/19270/'
             showIcon: true
-            icon: arrowRight
+            icon: play
             iconPosition: right
             style: secondary
             elementId: ''
