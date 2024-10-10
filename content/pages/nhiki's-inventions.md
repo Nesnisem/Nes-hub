@@ -150,12 +150,6 @@ sections:
           customized menus with icons. Now you can have an elegant menu with
           your own icons. To learn how, check out our video library, where
           you'll find tutorials and templates to suit your needs.
-        image:
-          type: ImageBlock
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-neutral-fg-dark
         styles:
