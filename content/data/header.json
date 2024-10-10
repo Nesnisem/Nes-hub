@@ -84,7 +84,7 @@
         {
             "type": "Link",
             "label": "Home",
-            "altText": "Play",
+            "altText": "Home",
             "url": "/home",
             "showIcon": true,
             "icon": "play",
