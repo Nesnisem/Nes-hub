@@ -121,7 +121,7 @@ sections:
             showIcon: true
             icon: chevronRight
             iconPosition: right
-            style: secondary
+            style: primary
             elementId: ''
         colors: bg-neutral-fg-dark
         styles:
