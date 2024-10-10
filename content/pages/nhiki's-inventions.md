@@ -3,7 +3,7 @@ type: PageLayout
 title: Nhiki's inventions
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Nhiki best review
     items:
       - type: FeaturedItem
         title: “Incredible developer who know coding like a pro!”
