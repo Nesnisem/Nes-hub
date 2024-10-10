@@ -99,7 +99,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-        tagline: jhygb
+        tagline: ''
       - type: FeaturedItem
         title: Open Source Engineer
         subtitle: Marketing
