@@ -146,7 +146,7 @@ sections:
         url: 'https://routinehub.co/user/nhiki'
         icon: play
         iconPosition: left
-        style: primary
+        style: secondary
         showIcon: true
     variant: toggle-list
     colors: bg-light-fg-dark
