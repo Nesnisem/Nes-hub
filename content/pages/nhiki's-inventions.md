@@ -130,7 +130,16 @@ sections:
           store your information, but you can also easily access, edit, and
           delete it using the convenient Stocker® shortcut. For added security,
           you have the option to set a password to protect your stored data.
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: '1'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
