@@ -83,7 +83,7 @@
         },
         {
             "type": "Link",
-            "label": "Play",
+            "label": "Home",
             "altText": "Play",
             "url": "/home",
             "showIcon": true,
