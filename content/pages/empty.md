@@ -36,7 +36,14 @@ sections:
           Netlify.”
         tagline: Nesnisem
         subtitle: 'Nesnisem, Spotify Artist'
-        text: "Hi my name is Qerty Zolres I’m from [NGI (Next Gen Innovators) team](https://routinehub.co/user/next.gen.innovators) and I want to tell you that Nhiki is the most talented person that I never knew in my entire life! Nhiki help me and my team for shortcuts like some that is actually published and other in development. Nhiki help us create some coding stuff. And Nhiki help people for free and that’s just crazy! Nhiki can make a code something cool for anybody! \U0001F60E\n"
+        text: >
+          Hi everyone
+          [Nesnisem](https://open.spotify.com/artist/4g2gNPaUB2hmYm6h76BOB2?si=qCLAdR8KQvO-kaC3QttFfg)
+          is here to tell you how useful Nhiki is. I know it's nothing to do
+          with music but I just wanted to let you know that if you need help
+          with coding or want to create something that contains coding like html
+          or whatever, Nhiki is here to serve you for free without charging you
+          a penny isn't it wonderful!
         image:
           type: ImageBlock
           url: /images/photo-output.PNG
