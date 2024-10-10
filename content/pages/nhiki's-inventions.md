@@ -143,6 +143,9 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
+
+
+          [![©RoutineHub](https://i.imgur.com/lPbuWTJ.png)](https://routinehub.co/)
         actions:
           - type: Button
             label: Get started
