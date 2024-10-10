@@ -157,7 +157,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: empty
+slug: Nhiki’s inventions
 isDraft: false
 seo:
   type: Seo
