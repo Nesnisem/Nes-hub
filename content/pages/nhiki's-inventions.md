@@ -207,12 +207,15 @@ sections:
         subtitle: >-
           Tired of the same old menus in the Shortcuts app? Say hello to vCard
           Menu Maker, here to help!
-        text: >
+        text: >-
           Tired of traditional menus in the Shortcuts application? Discover
           vCard Menu Maker, designed to help. This new feature lets you create
           customized menus with icons. Now you can have an elegant menu with
           your own icons. To learn how, check out our video library, where
           you'll find tutorials and templates to suit your needs.
+
+
+          [![©RoutineHub](https://i.imgur.com/lPbuWTJ.png)](https://routinehub.co/)
         actions:
           - type: Button
             label: Coming soon
