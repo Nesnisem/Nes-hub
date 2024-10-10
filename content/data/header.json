@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "Nhiki inventions",
-                    "url": "/",
+                    "url": "/nhiki inventions",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
