@@ -144,7 +144,7 @@ sections:
       - type: Button
         label: Find more
         url: 'https://routinehub.co/user/nhiki'
-        icon: arrowRight
+        icon: play
         iconPosition: right
         style: primary
         showIcon: true
