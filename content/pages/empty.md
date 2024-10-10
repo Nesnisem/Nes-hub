@@ -80,7 +80,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Here you will b able to find Nhiki's inventions.
+    subtitle: Here you will be able to find Nhiki's inventions.
     items:
       - type: FeaturedItem
         title: Account Executive
