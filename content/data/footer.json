@@ -32,17 +32,6 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            },
-            {
-                "type": "Link",
-                "label": "Play",
-                "altText": "Play",
-                "url": "/",
-                "showIcon": true,
-                "icon": "play",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
