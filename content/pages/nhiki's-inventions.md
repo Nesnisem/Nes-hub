@@ -157,7 +157,7 @@ sections:
             url: 'https://routinehub.co/shortcut/19149/'
             showIcon: true
             icon: chevronRight
-            iconPosition: left
+            iconPosition: right
             style: secondary
             elementId: ''
         colors: bg-neutral-fg-dark
