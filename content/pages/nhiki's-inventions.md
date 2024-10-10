@@ -229,7 +229,16 @@ sections:
           Taking this extra step can help you make a great first impression when
           exchanging vCard. It's a simple way to ensure that your professional
           image is always presented in the best light.
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://routinehub.co/shortcut/19270/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
