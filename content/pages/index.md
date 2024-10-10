@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Get access to premium stuff for free!
       color: text-dark
       styles:
         self:
