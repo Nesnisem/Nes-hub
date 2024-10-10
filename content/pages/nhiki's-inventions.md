@@ -101,7 +101,7 @@ sections:
             justifyContent: center
         tagline: ''
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: "Questions\U0001F187\U0001F189\U0001F181"
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
