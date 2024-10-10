@@ -81,7 +81,9 @@ sections:
     items:
       - type: FeaturedItem
         title: vCard Stocker
-        subtitle: Sales
+        subtitle: >-
+          Store, access, preview, edit, and remove vCard elements. Your personal
+          vCard stocker only for you.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
