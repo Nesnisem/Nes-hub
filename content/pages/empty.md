@@ -31,9 +31,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+        title: Amazing person!
         tagline: Nesnisem
         subtitle: 'Nesnisem, Spotify Artist'
         text: >
