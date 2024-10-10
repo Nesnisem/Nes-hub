@@ -234,7 +234,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/IMG_5510.jpeg
-          altText: Maria Walters
+          altText: Next Gen Innovators
           styles:
             self:
               borderRadius: full
