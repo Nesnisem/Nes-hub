@@ -292,7 +292,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/favicon.svg
-          altText: MK Review
+          altText: MK Reviews
           styles:
             self:
               borderRadius: x-large
