@@ -134,7 +134,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: '1'
+            url: ''
             showIcon: false
             icon: arrowRight
             iconPosition: right
