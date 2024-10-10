@@ -230,7 +230,7 @@ sections:
           exchanging vCard. It's a simple way to ensure that your professional
           image is always presented in the best light.
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
