@@ -145,7 +145,7 @@ sections:
         label: Find more
         url: 'https://routinehub.co/user/nhiki'
         icon: play
-        iconPosition: right
+        iconPosition: left
         style: primary
         showIcon: true
     variant: toggle-list
