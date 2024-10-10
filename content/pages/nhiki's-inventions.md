@@ -135,7 +135,7 @@ sections:
             label: Coming soon
             altText: ''
             url: ''
-            showIcon: false
+            showIcon: true
             icon: chevronBigLeft
             iconPosition: right
             style: primary
