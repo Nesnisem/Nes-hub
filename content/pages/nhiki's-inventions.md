@@ -171,13 +171,16 @@ sections:
       - type: FeaturedItem
         title: Stocker®
         subtitle: Stocker® - your secure digital storage solution in one shortcut.
-        text: >
+        text: >-
           Introducing Stocker® – the ultimate tool for digital storage. With
           Stocker®, you can securely store a wide variety of data, including
           text, codes, numbers, and even programming code. Not only can you
           store your information, but you can also easily access, edit, and
           delete it using the convenient Stocker® shortcut. For added security,
           you have the option to set a password to protect your stored data.
+
+
+          [![©RoutineHub](https://i.imgur.com/lPbuWTJ.png)](https://routinehub.co/)
         actions:
           - type: Button
             label: Coming soon
