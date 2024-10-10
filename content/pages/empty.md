@@ -75,7 +75,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Nhiki's inventions
       color: text-dark
       styles:
         self:
