@@ -291,7 +291,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/IMG_5510.jpeg
           altText: Placeholder text
           styles:
             self:
