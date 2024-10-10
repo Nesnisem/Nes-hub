@@ -86,7 +86,7 @@
             "label": "Home",
             "altText": "Home",
             "url": "/home",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "play",
             "iconPosition": "right",
             "style": "secondary",
