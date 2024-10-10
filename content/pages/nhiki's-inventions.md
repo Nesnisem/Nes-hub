@@ -155,7 +155,7 @@ sections:
             label: Get started
             altText: ''
             url: 'https://routinehub.co/shortcut/19149/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
