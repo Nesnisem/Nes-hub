@@ -7,8 +7,8 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Incredible developer that actually helps me for my shortcuts on
+          RoutineHub!”
         tagline: Next Gen Innovators
         subtitle: 'Qerty Zolres, Next Gen Innovators'
         text: >-
