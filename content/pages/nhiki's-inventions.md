@@ -266,7 +266,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/photo-output.PNG
-          altText: Jane Doe
+          altText: Nesnisem
           styles:
             self:
               borderRadius: full
