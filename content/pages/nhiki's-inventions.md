@@ -152,7 +152,7 @@ sections:
           you'll find tutorials and templates to suit your needs.
         actions:
           - type: Button
-            label: Download shortcut
+            label: Coming soon
             altText: ''
             url: ''
             showIcon: true
