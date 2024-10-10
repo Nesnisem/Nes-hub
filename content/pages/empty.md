@@ -145,7 +145,7 @@ sections:
         label: Find more
         url: 'https://routinehub.co/user/nhiki'
         icon: arrowRight
-        iconPosition: left
+        iconPosition: right
         style: primary
     variant: toggle-list
     colors: bg-light-fg-dark
