@@ -140,7 +140,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: vCard Menu Maker
-        tagline: This is the tagline
+        tagline: ''
         subtitle: >-
           Tired of the same old menus in the Shortcuts app? Say hello to vCard
           Menu Maker, here to help!
