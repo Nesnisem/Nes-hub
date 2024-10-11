@@ -27,7 +27,7 @@
             },
             {
                 "type": "Link",
-                "label": "My inventions",
+                "label": "Nhiki's inventions",
                 "altText": "",
                 "url": "/nhiki-inventions",
                 "showIcon": false,
