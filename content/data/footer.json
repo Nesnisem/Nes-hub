@@ -9,15 +9,6 @@
         "title": "Product",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "Pricing",
                 "url": "/pricing",
                 "icon": "arrowRight",
@@ -27,7 +18,7 @@
             },
             {
                 "type": "Link",
-                "label": "My inventions",
+                "label": "Nhiki's inventions",
                 "altText": "",
                 "url": "/nhiki-inventions",
                 "showIcon": false,
@@ -40,7 +31,7 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "",
         "links": [
             {
                 "label": "Careers",
