@@ -29,7 +29,7 @@
                 "type": "Link",
                 "label": "My inventions",
                 "altText": "",
-                "url": "/",
+                "url": "/nhiki-inventions",
                 "showIcon": false,
                 "icon": "play",
                 "iconPosition": "right",
