@@ -54,24 +54,8 @@
             "altText": "Other",
             "links": [
                 {
-                    "label": "Nhiki inventions",
-                    "url": "/Nhiki's inventions",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Nhiki's inventions",
+                    "url": "/Nhiki-inventions",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
